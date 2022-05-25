@@ -1,0 +1,21 @@
+5.1)
+region	liczba mieszkancow w  2013
+A		33929579
+B		41736619
+C		57649017
+D		36530387
+
+5.2)
+region	liczba wojewodztw w regionie
+A		3
+B		4
+C		8
+D		4
+liczba wojewodztw 	19
+
+5.3)
+a)
+liczba mieszkancow lacznie	125930205
+w12C	16699503
+b)
+liczba wojewodztw z przeludnieniem	18

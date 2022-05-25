@@ -1,0 +1,10 @@
+4.1
+422
+
+4.3
+podzielne przez 2: 500
+podzielne przez 8: 123
+
+4.3
+najkrotsza w wierszu: 859
+najdluzsza w wierszu: 925

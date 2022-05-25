@@ -1,0 +1,14 @@
+1)		
+x	y	czy należy do okregu
+256	8	1
+200	400	1
+		
+liczba punktow wewnatrz kola		
+7852		
+
+2)	wszystkie punkty	pierwsze 5000	pierwsze 1000
+pi	3,1416	3,1656	3,228
+
+3)
+0,0864
+0,0184

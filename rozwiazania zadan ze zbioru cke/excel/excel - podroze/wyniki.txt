@@ -1,0 +1,46 @@
+1)
+Ewelina Adamska
+
+2)
+Budzianowska	41
+Kolarski		41
+Laska			41
+Maskor		41
+Rzepka		42
+Rzymski		42
+		
+3)
+miasto	Suma z koszt
+Radom	27599,5
+Siedlce	34215,4
+Zgierz	38263,5
+Kutno	43372,8
+Kielce	48014,7
+Olsztyn	50606,6
+Kalisz	51099
+Lublin	53209,5
+Mielec	54144
+Bydgoszcz	63932
+Krakow	80344,5
+Katowice	81486,3
+Malbork	84280
+
+
+4)
+miesiac	liczba wyjazdow
+sty	130
+lut	68
+mar	63
+kwi	32
+maj	31
+cze	63
+lip	70
+sie	54
+wrz	121
+paź	103
+lis	135
+gru	130
+
+5)
+srednia calkowita	1,64
+srednia min dwudniowych	2,25

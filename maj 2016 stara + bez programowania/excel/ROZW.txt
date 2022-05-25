@@ -1,0 +1,13 @@
+zadanie 4,1	
+ilosc roztworu 		4600,00
+ilos wody			2682,72
+ilosc substancji x	1917,28
+
+4.2)
+laczna ilosc dolanej cieczy
+14500
+stezenie wody  w naczyniu po 1500 minutach
+3,77%
+
+4.4)
+28,07

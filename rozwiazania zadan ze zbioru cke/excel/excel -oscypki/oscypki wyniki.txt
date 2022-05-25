@@ -1,0 +1,31 @@
+1)	
+suma mleka	41406
+	
+2)	
+suma serow	8360
+	
+3)	
+po raz pierwszy	04.05.2014
+ile dni w sezonie	50
+
+
+4)	
+miesiac	liczba sprzedanych oscypkow
+kwiecień	72
+maj	1626
+czerwiec	1656
+lipiec	1628
+sierpień	1243
+wrzesień	586
+
+5)	
+liczba owiec	744
+
+6)
+suma serow gotowych na sprzedaz	
+1.	
+tylko owczy	6811
+2.	
+80proc owczy i 20 proc krowi	8470
+3.	
+60proc owczy i 40 proc krowi	11298

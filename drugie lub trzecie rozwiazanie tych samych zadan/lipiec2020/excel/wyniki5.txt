@@ -1,0 +1,48 @@
+1)	
+czas programu	liczba klientow
+1	11
+2	9
+3	9
+4	7
+5	6
+6	10
+7	11
+8	6
+9	12
+10	8
+11	16
+12	14
+13	7
+14	12
+15	6
+
+
+2)
+1 auto:
+78
+2 auta: 
+21
+
+
+3)
+przed 20
+114
+godzina
+19:54:00
+
+
+4)	
+godzina pracy myjni	liczba osob
+1	9
+2	8
+3	7
+4	9
+5	5
+6	10
+
+5)
+KP566
+ilu zrezygnowalo
+44
+ile maks
+3

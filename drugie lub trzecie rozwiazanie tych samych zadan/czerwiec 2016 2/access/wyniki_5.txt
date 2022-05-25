@@ -1,0 +1,37 @@
+1)
+Imie	Nazwisko
+Fryderyk	Badowski
+Tomasz	Barszcz
+Magda	Makowicz
+Pawel	Nowak
+Marek	Nowakowski
+Maria	Rybicka
+Justyna	Wysocka
+
+2)
+Nazwa_przedmiotu	liczba osob
+wiedza o spoleczenstwie	8
+
+3)
+Imie	Nazwisko	liczba przedmiotow dodatkowych
+Joanna	Baranska	3
+Marcin	Zalicki	3
+Maria	Bajda	3
+
+4)
+Nazwa_przedmiotu
+jezyk lacinski i kultura antyczna
+
+5)
+Imie	Nazwisko	
+Marek	Nowakowski	
+
+Nazwa_przedmiotu
+informatyka
+matematyka
+jezyk niemiecki
+jezyk polski
+
+6)
+liczba zdajacych mezczyzn
+180

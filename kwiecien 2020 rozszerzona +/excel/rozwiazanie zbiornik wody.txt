@@ -1,0 +1,19 @@
+1)
+temperatura <= 15	88
+temperatura > 15 & opady <=0,6	73
+temperatura > 15 & opady <=0,6	22
+
+
+2)
+06.05.2015 
+13172
+
+4)
+miesiac 	koszt
+kwi		0
+maj		164,36
+cze		1056,6
+lip		2559,32
+sie		3651,14
+wrz		1326,62
+

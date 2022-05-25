@@ -1,0 +1,24 @@
+1)	
+numer lotu	liczba minut maksymalna
+10	259,65
+
+2)
+ile nielegalnych
+3
+
+3)	
+03.09.2021	836,69
+30.09.2021	338,26
+
+4)
+21.09.2021
+
+5)
+maks:	
+05.09.2021	255500
+	
+Suma końcowa	4529000
+
+6)
+ile lotow stratnych:
+11

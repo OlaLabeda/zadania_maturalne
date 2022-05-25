@@ -1,0 +1,15 @@
+1)
+najmniejsza: 1
+najwieksza: 1056392131
+
+
+2)
+Najwieksza dlugosc fragmentu regularnego: 17
+poczatek: 193134524
+koniec: 223545714
+
+3)
+krotnosc najczestszej luki: 31
+wartosci najczestszych luk: 
+149
+11

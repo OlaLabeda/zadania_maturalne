@@ -1,0 +1,26 @@
+1)
+Rok	GrandPrix
+2010	Australia
+
+2)
+GrandPrix
+Indie
+
+3)
+Rok	max punktow	Imie	Nazwisko
+2000	108	Michael	Schumacher
+2006	134	Fernando	Alonso
+2012	281	Sebastian	Vettel
+
+4)
+Kraj	liczba roznych reprezentantow danego kraju
+Australia		2
+Brazylia		2
+Finlandia		1
+Francja		2
+Hiszpania		1
+Japonia		1
+Meksyk		1
+Niemcy		4
+Wenezuela		1
+Wielka Brytania	3

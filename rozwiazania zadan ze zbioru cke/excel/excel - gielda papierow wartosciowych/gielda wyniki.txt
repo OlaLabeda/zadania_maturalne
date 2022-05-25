@@ -1,0 +1,26 @@
+1)		
+LPP	7485,84	
+WAWEL	960,06	
+PZU	481,56	
+		
+		
+2)		
+nazwa	dzienna zmiana kursu	
+MILKILAND	27,85%	
+		
+3)					Laczna wartosc obrotow
+Liczba spolek krajowych		418	2427046811
+liczba spolek zagranicznych	52	29736190
+
+procentowy udzial spolek krajowych we wszytskich obrotach		98,79%
+		
+4)		
+data		laczna wartosc rynkowa	WIG
+21.01.2015	281091498490,00		50987,13
+22.01.2015	284219170040,00		51554,46
+23.01.2015	285297602760,00		51750,07
+
+6)	
+kup	53
+sprzedaj	20
+czekaj	397

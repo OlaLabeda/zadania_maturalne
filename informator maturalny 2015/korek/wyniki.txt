@@ -1,0 +1,47 @@
+a)
+miesiac	liczba
+12	31
+1	49
+11	79
+2	119
+10	180
+9	191
+3	194
+4	248
+8	253
+7	268
+5	292
+6	296
+
+b)
+Nazwa	wartosc
+granulat_korkowy	9920,6
+gumokorek	4827,53
+izolacja	139926,89
+klej	17659,52
+kora_surowa	17177,98
+korek_scienny	82337,7
+korki_do_butelek	2730,99
+listwy_korkowe	15425,6
+masa_korkowa	11624,58
+maty_korkowe	18946,71
+panele_korkowe	469424,16
+parkiet_korkowy	335740,76
+paski_dylatacyjne	15900,24
+plyty_korkowe	26452,65
+podklad_korkowy	184290,48
+podkladki_naturalne	2198,5
+przekladki_korkowe	1953,28
+pudelka	3203,66
+rolki_korkowe	13789,51
+tablice_korkowe	79431,91
+wyroby_korkowe	16539,51
+
+c)
+Nazwa	SumaOfIlosc
+Oslonka_falista	197
+
+d)
+Nazwa	DawnTown	Harmony	Natural	Nightshade	Rapsodia	Shell	Symphony
+panele_korkowe	412	507	778	110	735	637	405
+parkiet_korkowy	1149	684	446		1467	474	504

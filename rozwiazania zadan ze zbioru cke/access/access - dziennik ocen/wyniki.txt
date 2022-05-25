@@ -1,0 +1,127 @@
+1)
+Klasa
+I A
+I C
+
+2)
+Data
+11.11.2014
+14.10.2014
+
+3)
+ŚredniaOfOcena	Klasa
+3,53	IV A
+3,45	IV B
+3,40	IV C
+3,90	IV D
+3,51	IV E
+
+4) //w pliku accesa znajduje sie tez realizacja w kwerendzie krzyzowej, jednak tak jest bardziej czytelnie
+miesiac	Nazwa_przedmiotu	liczba piatek w danym miesiacu
+9	administracja bazami danych	3
+9	biologia	8
+9	chemia	18
+9	diagnostyka i naprawa urzadzen techniki komputerowej	8
+9	edukacja dla bezpieczenstwa	9
+9	fizyka	14
+9	historia	2
+9	historia i spoleczenstwo - przedmiot uzupelniajacy	8
+9	informatyka	33
+9	j.angielski	50
+9	j.niemiecki	66
+9	j.polski	37
+9	jezyk angielski zawodowy w branzy informatycznej	1
+9	matematyka	32
+9	podstawy przedsiebiorczosci	6
+9	projektowanie i montaz lokalnych sieci komputerowych	10
+9	systemy baz danych	6
+9	systemy operacyjne	4
+9	urzadzenia techniki komputerowej	8
+9	wiedza o kulturze	7
+9	wiedza o spoleczenstwie	7
+9	witryny i aplikacje internetowe	5
+9	wychowanie fizyczne	23
+10	administracja bazami danych	13
+10	biologia	20
+10	chemia	31
+10	diagnostyka i naprawa urzadzen techniki komputerowej	13
+10	edukacja dla bezpieczenstwa	15
+10	fizyka	21
+10	geografia	1
+10	historia	2
+10	historia i spoleczenstwo - przedmiot uzupelniajacy	4
+10	informatyka	31
+10	j.angielski	85
+10	j.niemiecki	106
+10	j.polski	81
+10	jezyk angielski zawodowy w branzy informatycznej	1
+10	matematyka	39
+10	podstawy przedsiebiorczosci	16
+10	projektowanie i montaz lokalnych sieci komputerowych	11
+10	sieci komputerowe	2
+10	systemy baz danych	5
+10	systemy operacyjne	19
+10	urzadzenia techniki komputerowej	18
+10	wiedza o kulturze	16
+10	wiedza o spoleczenstwie	15
+10	witryny i aplikacje internetowe	6
+10	wychowanie fizyczne	39
+11	administracja bazami danych	7
+11	biologia	9
+11	chemia	31
+11	diagnostyka i naprawa urzadzen techniki komputerowej	9
+11	edukacja dla bezpieczenstwa	14
+11	fizyka	31
+11	geografia	1
+11	historia i spoleczenstwo - przedmiot uzupelniajacy	6
+11	informatyka	34
+11	j.angielski	72
+11	j.niemiecki	84
+11	j.polski	62
+11	jezyk angielski zawodowy w branzy informatycznej	1
+11	matematyka	48
+11	podstawy przedsiebiorczosci	16
+11	projektowanie i montaz lokalnych sieci komputerowych	11
+11	systemy baz danych	8
+11	systemy operacyjne	12
+11	urzadzenia techniki komputerowej	19
+11	wiedza o kulturze	13
+11	wiedza o spoleczenstwie	9
+11	witryny i aplikacje internetowe	9
+11	wychowanie fizyczne	34
+12	administracja bazami danych	1
+12	administracja sieciowymi systemami operacyjnymi	2
+12	biologia	5
+12	chemia	13
+12	diagnostyka i naprawa urzadzen techniki komputerowej	13
+12	edukacja dla bezpieczenstwa	8
+12	fizyka	9
+12	historia i spoleczenstwo - przedmiot uzupelniajacy	3
+12	informatyka	25
+12	j.angielski	50
+12	j.niemiecki	53
+12	j.polski	41
+12	matematyka	35
+12	podstawy przedsiebiorczosci	12
+12	projektowanie i montaz lokalnych sieci komputerowych	6
+12	systemy baz danych	5
+12	systemy operacyjne	9
+12	urzadzenia techniki komputerowej	15
+12	wiedza o kulturze	10
+12	wiedza o spoleczenstwie	7
+12	witryny i aplikacje internetowe	3
+12	wychowanie fizyczne	15
+
+5)
+Imie	Nazwisko
+Aneta	Duda
+Miroslaw	Gorski
+Lukasz	Kostoczko
+Donald	Krychowski
+Adrian	Lubaczewski
+Piotr	Nawrocki
+Michal	Nowakowski
+Piotr	Prusinski
+Grzegorz	Tomkow
+Radoslaw	Wojciechowski
+Mariusz	Wojtyra

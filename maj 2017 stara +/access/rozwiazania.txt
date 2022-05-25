@@ -1,0 +1,78 @@
+1)
+imie	nazwisko
+Sylwia	Adamska
+Marcin	Ciesielski
+Pawel	Dziminski
+Klaudia	Kapuscinska
+Ewelina	Lagun
+Michal	Majewski
+Katarzyna	Michalak
+Kamila	Olobry
+Piotr	Otorowski
+Danuta	Pawezowska
+Tomasz	Stefanczyk
+Pawel	Straciuk
+Monika	Wer
+
+2)
+koszt	imie	nazwisko
+34017,5	Marcin	Ciesielski
+
+3)
+miesiac	liczba rezerwacji
+6	76
+7	505
+8	291
+9	28
+
+4)
+kraj		wylot		liczba wycieczek zaplanowanych(niekoniecznie zarezerwowanych)
+Bulgaria	Gdansk		26
+Bulgaria	Katowice	19
+Bulgaria	Krakow		17
+Bulgaria	Lodz		22
+Bulgaria	Poznan		24
+Bulgaria	Warszawa	20
+Bulgaria	Wroclaw		25
+Egipt		Gdansk		20
+Egipt		Katowice	49
+Egipt		Krakow		14
+Egipt		Lodz		3
+Egipt		Poznan		21
+Egipt		Warszawa	26
+Egipt		Wroclaw		22
+Grecja		Gdansk		27
+Grecja		Katowice	26
+Grecja		Krakow		25
+Grecja		Lodz		33
+Grecja		Poznan		17
+Grecja		Warszawa	29
+Grecja		Wroclaw		19
+Hiszpania	Gdansk		19
+Hiszpania	Katowice	31
+Hiszpania	Krakow		12
+Hiszpania	Lodz		19
+Hiszpania	Poznan		17
+Hiszpania	Warszawa	25
+Hiszpania	Wroclaw		26
+Maroko		Gdansk		21
+Maroko		Katowice	22
+Maroko		Krakow		26
+Maroko		Lodz		26
+Maroko		Poznan		23
+Maroko		Warszawa	21
+Maroko		Wroclaw		28
+Tunezja		Gdansk		23
+Tunezja		Katowice	26
+Tunezja		Krakow		13
+Tunezja		Lodz		32
+Tunezja		Poznan		20
+Tunezja		Warszawa	25
+Tunezja		Wroclaw		25
+Turcja		Gdansk		17
+Turcja		Katowice	23
+Turcja		Krakow		22
+Turcja		Lodz		30
+Turcja		Poznan		23
+Turcja		Warszawa	24
+Turcja		Wroclaw		18

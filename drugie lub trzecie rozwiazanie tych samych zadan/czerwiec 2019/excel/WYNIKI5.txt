@@ -1,0 +1,20 @@
+1)
+06.05.2015
+
+2)
+WYKRES W PLIKU
+
+3)	
+miesiac	koszt
+kwi	0
+maj	164,36
+cze	1056,6
+lip	2559,32
+sie	3651,14
+wrz	1326,62
+
+4)	
+TEMP < 15	88
+TEMP >15 I OPADY <= 0,6	73
+TEMP >15 I OPADY >0,6	22
+

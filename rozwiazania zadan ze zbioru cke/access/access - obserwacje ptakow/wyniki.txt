@@ -1,0 +1,44 @@
+1)
+nazwa_zwyczajowa
+bogatka
+sroka
+myszolow
+
+2)
+numer miesiaca	liczba ptakow
+5	2
+6	9
+7	3
+8	12
+9	2
+
+3)
+liczba obserwacji	nazwa_zwyczajowa
+7	gawron
+16	kawka
+7	kruk
+20	wrona siwa
+
+4)
+a)
+czas minuty	liczba ptakow	poczatek	lokalizacja
+960,00	13	18.07.2014	Tadzino
+b)
+sprawnosc	lokalizacja	poczatek
+143,87	Jezioro Zarnowieckie	03.12.2014
+
+5)
+a)
+liczba zurawi
+1624
+
+b)
+powiat		brak informacji	gniazduje	leci	odpoczywa	zeruje
+chojnicki		0	0	0	0	2
+gdanski		7	0	35	3	8
+kartuski		0	0	1	6	0
+koscierski		0	0	120	0	0
+malborski		5	0	0	0	0
+pucki			111	0	580	0	90
+starogardzki	307	0	0	0	0
+wejherowski		0	22	243	17	67

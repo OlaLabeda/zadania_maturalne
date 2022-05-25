@@ -1,0 +1,49 @@
+1)
+cena za zabiegi
+3841
+
+2)
+imie	nazwisko	liczba wizyt
+Johan	Bor	20
+
+3)
+data
+25.01.2018
+20.01.2018
+18.01.2018
+12.01.2018
+10.01.2018
+04.01.2018
+03.01.2018
+22.12.2017
+21.12.2017
+19.12.2017
+18.12.2017
+14.12.2017
+12.12.2017
+08.12.2017
+06.12.2017
+04.12.2017
+27.11.2017
+22.11.2017
+20.11.2017
+13.11.2017
+
+laczna liczba wizyt z hwajami
+21
+
+4)
+
+KOBIETY MAKIJAZ
+7
+cena
+400
+
+5)
+zabieg
+Odsiwianie
+Kuracja L'Oreal
+Rytual Kerastase (dyscyplinujacy)
+Maska Masquargil
+
+

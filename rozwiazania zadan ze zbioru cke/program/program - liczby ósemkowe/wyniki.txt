@@ -1,0 +1,15 @@
+1)
+1002
+777044
+
+2)
+dlugosc ciagu: 6
+element: 639
+
+3)
+ta sama: 160
+osemkowe wieksze: 357
+
+3)
+w dziesietnym: 411
+w osemkowym: 625

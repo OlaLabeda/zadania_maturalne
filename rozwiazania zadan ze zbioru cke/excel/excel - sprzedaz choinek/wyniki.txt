@@ -1,0 +1,21 @@
+1)
+sprzedane choinki
+592
+pozostale choinki
+8
+
+3)
+11
+
+4)
+sprzedane choinki
+819
+
+liczba dostaw
+17
+
+5)
+maks liczba choinek dostarczana: 
+35
+choinki na koniec wieczorem
+21

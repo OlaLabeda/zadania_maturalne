@@ -1,0 +1,29 @@
+1)
+Imie	Nazwisko	liczba wystawionych obrazow
+Jacek	Malczewski	25
+Jan	Matejko	11
+
+2)
+Imie	Nazwisko	Tytul
+Jozef	Chelmonski	Zjazd na polowanie
+Julian	Falat	Polowanie na kaczki
+Maksymilian	Gierymski	Polowanie w lesie
+Maksymilian	Gierymski	Wyjazd na polowanie
+Juliusz	Kossak	Polowanie na lisa
+Juliusz	Kossak	Polowanie w Poturzycy
+
+3)
+Miejscowosc	ekspozycja czasowa	ekspozycja stala	w magazynie	wypozyczony
+Gdansk	1	15	2	1
+Krakow	7	20	9	8
+Nieborow	4	10	2	2
+Warszawa	68	65	47	52
+Wroclaw	4	15	6	1
+
+4)
+pierwsza litera
+P
+
+5)
+Imie	Nazwisko
+Jacek	Malczewski

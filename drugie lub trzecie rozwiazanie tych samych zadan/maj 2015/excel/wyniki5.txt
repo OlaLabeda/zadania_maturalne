@@ -1,0 +1,23 @@
+1)	
+REGION	Ludnosc
+A	33929579
+B	41736619
+C	57649017
+D	36530387
+
+
+2)	
+1.	
+	19
+2.	
+region	l wojewodztw spel warunki
+A	3
+B	4
+C	8
+D	4
+
+
+3)	
+liczba mieszkancow:	125930205
+max mieszkancow	w12C
+l woj. Z efektem przeludnienia	18

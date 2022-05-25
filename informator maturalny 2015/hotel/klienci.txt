@@ -1,0 +1,605 @@
+nr_dowodu	nazwisko	imie	miejscowosc
+EMC583136	Cieslik	Tomek	Ustron
+OGX774178	Szostak	Olga	Wroclaw
+ORS792456	Ploszaj	Marcin	Milicz
+CAK316672	Lichorowicz	Joanna	Gliwice
+RDU676711	Jarecki	Jedrzej	Poznan
+NRU283449	Minczewa	Barbara	Wroclaw
+LGE794849	Kolska	Eugenia	Ruda Slaska
+HNM211767	Bohosiewicz	Agnieszka	Dabrawa Gornicza
+TZC143447	Gutowski	Grzegorz	Bedzin
+DCM581745	Bednarczyk	Michal	Wielun
+BWM720022	Biborski	Wawrzyniec	Bielsko Biala
+RMS452742	Barcinski	Tomasz	Jastrzebie
+ORM915203	Brodowicz	Marek	Kalisz
+ICE575666	Cwiklinski	Michal	Pilica
+ENJ374865	Miecznikowska	Agnieszka	Zabrze
+SKW695890	Jastrzebski	Wiktor	Gliwice
+LKP438176	Kolek	Lukasz	Cieszyn
+ENM638210	Wierzbicki	Konrad	Pilica
+REC657172	Ogrodniczak	Aneta	Zawiercie
+OYE669390	Ekowska	Brygida	Torun
+HZG574029	Wohlfeld	Krzysztof	Czestochowa
+RRD240460	Zurawel	Barbara	Katowice
+LAA703384	Tyliba	Joanna	Chorzow
+RND543878	Karbowniczek	Monika	Mokre
+LKK704580	Wilczek	Emil	Nowy Targ
+SRE116513	Wasielak	Bartek	Katowice
+UYW535472	Szumylowicz	Szymon	Ogrodzieniec
+RMR532011	Kuras	Tomasz	Wroclaw
+TAE764889	Matuszewska	Agata	Kalisz
+CNM980541	Roczniak	Jan	Czestochowa
+RCU712132	Duraj	Lech	Pyrzyce
+MZP112190	Samek	Krzysztof	Wieliczka
+ERZ333137	Stefanski	Bartek	Augustow
+SMC138367	Jasak	Kamil	Tarnowskie Gory
+LIM471477	Falinska	Emilia	Czestochowa
+NGS627376	Nanus	Dagmara	Szczecin
+TAW810112	Matuszyk	Ola	Kolo
+UMD255019	Mrugalska	Dominika	Cieszyn
+STU761241	Fiszer	Mateusz	Krynica
+SRF122196	Kostrz	Dorota	Katowice
+JRD545353	Rojek	Karolina	Kielce
+IZA401141	Klimczyk	Krzysztof	Szczecin
+ZCR643933	Loziczonek	Maciej	Myslowice
+SBW714055	Kosiorowski	Hubert	Zakopane
+EFC411984	Pregler	Zofia	Siemianowice
+BLX806887	Dobosz	Malgorzata	Ogrodzieniec
+RRD173718	Warzecha	Jaroslaw	Szczecin
+ARE827054	Szala	Marek	Lublin
+LTA246778	Zulawinska	Katarzyna	Krynica
+BJZ440337	Haszczyc	Majka	Chorzow
+CWX292673	Luczynski	Pawel	Mragowo
+CRU699878	Michalak	Marcin	Poznan
+YKW809494	Mlynarczyk	Jakub	Siedlce
+RRP910432	Marzec	Bartek	Wroclaw
+LNK924826	Wolak	Anna	Wroclaw
+IRG849385	Smietanski	Marcin	Opole
+ECH159752	Steciak	Maciej	Poznan
+RKJ710368	Para	Lukasz	Opole
+BLR832522	Kobus	Malgorzata	Lublin
+GRH913966	Boguslawska	Barbara	Cieszyn
+GAP884529	Augustynska	Agata	Bytom
+SAK715848	Kosiorowska	Joanna	Tarnowskie Gory
+AZM441602	Ciaptacz	Grzegorz	Frombork
+ZOP335405	Grzesiak	Iwona	Szczecin
+UEM872786	Gruszka	Aleksander	Rybnik
+RNM806180	Seretny	Anna	Gliwice
+ZCR184614	Grzybowski	Szczepan	Gliwice
+BRH740956	Caban	Marta	Kielce
+SLF932637	Muszynska	Malgorzata	Krakow
+SCF624636	Kosek	Michal	Dabrawa Gornicza
+UNC608098	Siudut	Anna	Jaworzno
+EAB565465	Siekierka	Blazej	Gniezno
+UMU870948	Hauser	Tomasz	Tarnowskie Gory
+ARB545678	Adamczyk	Marcin	Piekary Slaskie
+DNB709477	Radwanska	Anna	Bialystok
+EKM402045	Zieba	Lukasz	Chorzow
+ROR270312	Paruch	Piotr	Opole
+CAT747380	Orczyk	Adam	Lowicz
+TLM785173	Ostachowicz	Malgorzata	Ruda Slaska
+KLH143380	Jakowska	Arletta	Lublin
+DZS379713	Madej	Elzbieta	Lublin
+KCE142262	Jakubowski	Maciej	Kletno
+ENM468972	Szewczyk	Agnieszka	Szczecin
+CCE703436	Msciwujewski	Michal	Zamosc
+SNF152518	Juskowiak	Konstanty	Konin
+LRB778048	Pyla	Marcin	Ciechocinek
+LNB791788	Szlachcic	Kinga	Szczecin
+BCS506328	Bobek	Michal	Dabrawa Gornicza
+CCW781151	Szczepanik	Michal	Swierklaniec
+RKU612187	Merak	Annna	Kielce
+PAB977065	Popielarczyk	Joanna	Bytom
+ALG954893	Starzecki	Filip	Ruda Slaska
+EEW569821	Stec	Aleksandra	Katowice
+OWD210571	Zwozniak	Dawid	Krakow
+CNB289398	Roczniak	Hanna	Wieliczka
+OBH310812	Iwo	Biborski	Milicz
+YCT199664	Kryszkiewicz	Michal	Lubaczow
+KBA610895	Myrcik	Robert	Gliwice
+ANA920725	Bras	Danuta	Opole
+RRW210814	Borek	Marcin	Rybnik
+IAM350343	Osinska	Olga	Krakow
+LME446776	Nalborska	Kamila	Gliwice
+WEP972778	Pawlak	Orest	Lowicz
+IRJ743905	Eminowicz	Marek	Mokre
+TEW846297	Gut	Ewelina	Augustow
+BKW837550	Zaba	Lukasz	Katowice
+LRS863481	Baloniwski	Jan	Rybnik
+BRX296675	Urbaniec	Bartlomiej	Lublin
+MSS721093	Tomczyk	Malgorzata	Dabrawa Gornicza
+JRA585894	Majsak	Bartosz	Katowice
+LMD975247	Milos	Tomasz	Radom
+RZK588366	Merynda	Grzegorz	Krakow
+RNK542437	Tarnowka	Agnieszka	Wadowice
+JLX908856	Mejewska	Sylwia	Rybnik
+KLS689304	Mikocka	Malgorzata	Dabrawa Gornicza
+NKF274491	Janiszewski	Jakub	Gniezno
+ORS205775	Slomski	Marcin	Augustow
+RRA325858	Torba	Marek	Wroclaw
+TKM240144	Szturc	Lukasz	Opole
+ORM762654	Cholewa	Weronika	Ustron
+SAS253401	Pastuszak	Joanna	Szczecin
+MOE708692	Romanczyk	Piotr	Ruda Slaska
+HYR100068	Schiller	Eryk	Opole
+ACW464933	Slaski	Michal	Katowice
+LEW271236	Balwierz	Aleksandra	Nowy Targ
+ODM448499	Szombierski	Andrzej	Opole
+EAU333938	Piekarska	Joanna	Torun
+GRA854457	Zagorski	Marcin	Jastrzebie
+ODF470998	Gronus	Jadwiga	Krakow
+RMK774243	Tyranowski	Tomasz	Wisla
+CRX541049	Mach	Teresa	Wroclaw
+LAA778195	Holda	Joanna	Ciechocinek
+EGA840950	Ziewczynska	Magdalenalena	Zamosc
+URW282485	Bober	Justyna	Srebrna Gora
+OZM653400	Wlodarczyk	Przemyslaw	Bytom
+PMS940809	Lipka	Damian	Bytom
+RUD677291	Chrascik	Paula	Opole
+EAW243290	Wiensak	Joanna	Kielce
+MOG325502	Kamisinski	Kacper	Jelenia Gora
+RJT752154	Turek	Wojciech	Bedzin
+WTX332002	Zawadzka	Katarzyna	Poznan
+KIA596943	Hak	Emilia	Bedzin
+MYU948400	Domnicz	Szymon	Gliwice
+NME348579	Kondratowicz	Kamil	Kielce
+IYH931501	Klimek	Krystyna	Ruda Slaska
+TWM724248	Mitkowski	Pawel	Poznan
+ZOX192351	Zuzek	Piotr	Myslowice
+JMD626914	Kajdasiewicz	Kamil	Mokre
+CMH328081	Machaj	Tomasz	Wieliczka
+CCW216013	Machowski	Michal	Rybnik
+SSG692556	Owsianka	Justyna	Frombork
+NGC432837	Ponisz	Magdalena	Kletno
+ARW221417	Skarzynski	Jerzy	Zabrze
+RTR995050	Tarkowska	Katarzyna	Myslowice
+LRC327622	Polkowska	Barbara	Szczecin
+LWW790497	Sklodowski	Dawid	Kalisz
+ZDJ606596	Grzesik	Andrzej	Torun
+TRW192264	Kotelon	Marta	Myslowice
+UOK694317	Nguyen	Piotr	Wroclaw
+MOH975962	Simon	Janusz	Szczecin
+JOE181006	Wojtkiewicz	Piotr	Kielce
+EDJ564662	Goerlich	Andrzej	Krakow
+DUZ765135	Rudnicka	Paulina	Wroclaw
+WTD477822	Siwczynska	Wiktoria	Augustow
+RED349682	Por	Adelajda	Ustron
+RSX280052	Skrzydlewska	Justyna	Poznan
+DSD263750	Mydlarz	Leszek	Gliwice
+AAW596622	Owalska	Weronika	Chorzow
+RNW227917	Kurek	Agnieszka	Bytom
+RNA995125	Kurtyka	Anna	Lublin
+ZNS756264	Jezabek	Jan	Krynica
+RZJ613946	Herman	Grzegorz	Myslowice
+WNC820948	Piwowarczyk	Anna	Turek
+CUS220377	Michalska	Paulina	Poznan
+EDM733986	Zielnicki	Radek	Gliwice
+DTK756704	Jadach	Estera	Bytom
+KYR815614	Sikora	Szymon	Wisla
+TNA411964	Kuter	Monika	Lublin
+NCM689382	Zanko	Jacek	Jelenia Gora
+ZMH353961	Koziol	Tomasz	Zabrze
+LCU678420	Walczynski	Maciej	Bialystok
+PND719903	Depinska	Anna	Kalisz
+AKE703562	Staron	Jakub	Krakow
+ZRW627657	Gazda	Marcin	Wisla
+CAB693780	Lechowska	Ewa	Pyrzyce
+LTC625003	Kalita	Natalia	Katowice
+SGH173561	Puschhaus	Bogumila	Siemianowice
+EYD791158	Niechcial	Szymon	Lowicz
+BRK348644	Bober	Marcin	Augustow
+ETT310415	Szewczyk	Katarzyna	Zamosc
+CAA216727	Maciarz	Joanna	Bialystok
+RBM949404	Perczynski	Sebastian	Ogrodzieniec
+OCR933492	Bronkowski	Michal	Wroclaw
+ALX130175	Kwasniak	Julita	Gliwice
+RNW733993	Bereta	Anna	Cieszyn
+GRG440995	Wegrzyn	Mariola	Lublin
+SOW507048	Musiewicz	Piotr	Ustron
+SOC930382	Peszt	Piotr	Bedzin
+ORM345434	Gwozdziewic	Bartlomiej	Kletno
+CTW956680	Mach	Patryk	Tarnowskie Gory
+ZRA543776	Mizianty	Marcin	Czestochowa
+HKC495112	Ichas	Jakub	Bialystok
+NTR753484	Janicki	Mateusz	Augustow
+OZR230478	Broniek	Przemyslaw	Kalisz
+LRT604355	Molikiewicz	Marcin	Krakow
+LTK777012	Malczyk	Artur	Kalisz
+SKG244679	Musial	Lukasz	Katowice
+URC730767	Siuta	Marek	Krakow
+SZH652130	Leszczynski	Grzegorz	Kielce
+LRS759564	Kolodziejczyk	Marcin	Katowice
+EKA102529	Piela	Jakub	Lublin
+RKE241069	Korpet	Lukasz	Rybnik
+GNH651812	Zagorska	Anna	Katowice
+RDM401801	Morawski	Andrzej	Ruda Slaska
+ADC445140	Brandys	Nadia	Lubaczow
+WTJ182049	Sowa	Katarzyna	Gliwice
+ANS205833	Czajczyk	Konrad	Krakow
+RYB976917	Berkowska	Edyta	Piekary Slaskie
+SKE876070	Wisniowski	Jakub	Lowicz
+RKW124197	Poradisz	Jakub	Torun
+JRU148841	Rojkiewicz	Karol	Gliwice
+RWU935362	Zareba	Pawel	Katowice
+ILD729898	Swiegoda	Milosz	Krynica
+ZNW356990	Trzaska	Anna	Kolo
+MNZ883486	Gembarska	Agnieszka	Pilica
+CAE208057	Nucinska	Ewa	Gliwice
+HRW933388	Pohorecka	Maria	Wisla
+ICH648336	Swieszek	Michal	Kalisz
+JZK824959	Wojtczak	Grzegorz	Lublin
+BRB662832	Bobrowski	Marcin	Ustron
+AZM745127	Frankowicz	Przemyslaw	Wroclaw
+PNS219227	Poplawska	Anna	Wroclaw
+WOR834088	Powroznik	Piotr	Turek
+RNC522706	Gorgon	Anna	Pilica
+ZAM643581	Orzechowska	Joanna	Siedlce
+AMD206704	Iwanciw	Tomek	Poznan
+LTE578796	Golinski	Artur	Opole
+RGD616350	Cygan	Teresa	Lowicz
+RKM135138	Marchewka	Lukasz	Torun
+ROK348269	Poloczek	Iwo	Czestochowa
+LRE374319	Malecka	Dorota	Katowice
+WFH560860	Nowak	Zofia	Augustow
+SRS709149	Kiszala	Bartek	Siedlce
+KRD736739	Jakubowski	Bartek	Dabrawa Gornicza
+KWK958050	Wiklik	Pawel	Kielce
+ZJR270357	Trzebiatowski	Wojciech	Krynica
+AIN410341	Abacka	Aniela	Opole
+MRF369007	Komorowska	Karolina	Kielce
+ONA523392	Wrobel	Jan	Tczew
+RNR289601	Chruscicka	Agnieszka	Bialystok
+CYA364758	Necki	Szymon	Zabrze
+ICA691178	Kwiatkowski	Maciej	Strzelin
+PAK720178	Popiolek	Beata	Bialystok
+TRD149814	Ostrowska	Barbara	Zawiercie
+EEE940235	Szelag	Aleksandra	Szczecin
+RZS222173	Cyran	Grzegorz	Bialystok
+DSS331880	Jedrychowska	Justyna	Kalisz
+AZA699826	Kwater	Grzegorz	Pyrzyce
+LNR174746	Walbiner	Anna	Chorzow
+TOF917869	Katarzyna	Grobler	Szczecin
+PRR248178	Lipert	Marek	Lublin
+IRP123227	Osikowska	Barbara	Lublin
+ZDM773287	Grzmot	Aldona	Milicz
+JAA932190	Wojtkiewicz	Ewa	Ustron
+LCD769665	Zelechowski	Michal	Bytom
+KKA225760	Mikulski	Jakub	Kalisz
+OJW146495	Wronka	Wojciech	Kalisz
+OTA219926	Klosowska	Katarzyna	Zakopane
+NAD322028	Lencznarowicz	Ola	Dabrawa Gornicza
+IGC681225	Cwiertnia	Magdalena	Jastrzebie
+ABT576619	Joanna	Dabrowska	Wadowice
+KCD664951	Szkwarek	Michal	Torun
+JRE691923	Pajak	Karolina	Piekary Slaskie
+RCP757375	Gorska	Michalina	Lodz
+KCT662380	Tokarz	Maciej	Leszno
+ENC548039	Bielach	Renata	Bielsko Biala
+SNC354207	Misiuda	Anna	Tarnowskie Gory
+ZNJ707704	Wrzesinska	Anna	Czestochowa
+UMA338977	Czubak	Tomasz	Opole
+SNW370770	Bisaga	Agnieszka	Wisla
+TJC577804	Kotkiewicz	Wojciech	Opole
+SND420460	Lesniak	Monika	Opole
+ICX612585	Swiderski	Maciek	Chorzow
+CZA955699	Kucybala	Krzysztof	Pyrzyce
+WTC860360	Sawicka	Katarzyna	Milicz
+GZH468077	Regulski	Krzysztof	Kalisz
+SZD760152	Kostrzewa	Grzegorz	Milicz
+EKJ132667	Fimanowska	Joanna	Wieliczka
+ZCX143126	Trzmielewski	Maciej	Nowa Sol
+RTT621570	Mirecki	Artur	Bedzin
+ROK864193	Korcyl	Piotr	Wadowice
+ACC616316	Klara	Maciej	Wadowice
+EKD802545	Piekos	Lukasz	Ruda Slaska
+CCE673359	Antkowicz	Cecylia	Siemianowice
+OZC559622	Gronkowski	Grzegorz	Czestochowa
+MCM127068	Osmenda	Michal	Bialystok
+SIS395155	Kosciuszko	Alicja	Zamosc
+CCE657591	Weclawowicz	Jacek	Katowice
+CNM542367	Mech	Kinga	Torun
+STF452258	Wieczorek	Mateusz	Gliwice
+TMW589808	Kotulska	Kamila	Szczecin
+ZWU963805	Mazur	Pawel	Siemianowice
+ODB538567	Prochwicz	Tadeusz	Wisla
+ZKK174835	Krzysztofinski	Lukasz	Turek
+LTA696511	Polys	Katarzyna	Tarnowskie Gory
+IRC248709	Oliwa	Karol	Poznan
+JAU314979	Mojsanowicz	Izabela	Bytom
+ZOG170650	Grzybowski	Piotr	Konin
+ZCP317779	Wszolek	Jacek	Jaworzno
+EAA371399	Ciechanowicz	Ewa	Opole
+RCD122609	Chrzastek	Maciej	Zakopane
+LCP633089	Kaleta	Michal	Bedzin
+BTC477700	Rebacz	Witold	Ustron
+WWS867410	Zawrzykraj	Pawel	Tczew
+ANH308609	Blazowska	Anna	Kalisz
+ETG996216	Mielczarek	Artur	Lowicz
+DNH895181	Radecka	Anna	Zabrze
+ACM571209	Drahus	Michal	Nowa Sol
+BTS689878	Kubera	Natalia	Gliwice
+DKT219262	Budziaszek	Lukasz	Braniewo
+DRT694737	Czader	Bartek	Radom
+LKT701595	Salacinski	Lukasz	Bielsko Biala
+SRW757730	Lasek	Marcin	Milicz
+NMZ567271	Konopka	Kamil	Tarnowskie Gory
+CNW831746	Kaczmarczyk	Jan	Lowicz
+AZP120173	Miaskiewicz	Przemek	Gniezno
+OLC411350	Wronska	Malgorzata	Zgorzelec
+RAS236871	Turowska	Gracjanna	Milicz
+RWD694777	Markiewicz	Pawel	Lowicz
+CWE936540	Szczepaniec	Pawel	Siemianowice
+DND601846	Nadachowski	Jan	Krakow
+GGC146114	Cyganska	Magdalenalena	Kielce
+RFX666397	Gorska	Zofia	Opole
+IWC228317	Swierszczynski	Pawel	Katowice
+DDH426048	Sadecki	Andrzej	Opole
+EDA946558	Szelc	Andrzej	Lublin
+LRH249243	Walczak	Bartosz	Gniezno
+ENX555437	Chechelska	Anna	Krakow
+LWM760764	Walter	Pawel	Cieszyn
+RNS754184	Mirga	Anna	Dabrawa Gornicza
+EGJ400397	Niedenthal	Dagmara	Opole
+TTT120645	Kotarba	Mateusz	Zamosc
+ENW161435	Biernat	Anna	Wisla
+GBC806236	Bagsik	Robert	Bytom
+OTC251529	Proniewicz	Patryk	Katowice
+KYD269424	Sokolowski	Szymon	Szczecin
+SDS398388	Gasior	Andrzej	Siedlce
+ARA862039	Szatylowicz	Jaroslaw	Szczecin
+NAD793510	Mondkiewicz	Beata	Bialystok
+WGC657062	Nawrot	Magdalena	Gliwice
+IZW401997	Klimczyk	Przemyslaw	Chorzow
+ZOE487456	Przygoda	Piotr	Gieblo
+OAF401894	Chodacka	Agata	Pyrzyce
+JJA406607	Wojtas	Wojciech	Ustron
+DMD770179	Rudnicka	Dominika	Myslowice
+RNG257822	Maraj	Anna	Krakow
+KLF735943	Sokolowska	Malgorzata	Gniezno
+JGU251735	Wojcik	Magdalena	Augustow
+DCM709317	Gadowski	Michal	Cieszyn
+WNG205100	Sowa	Anna	Cieszyn
+COA220333	Mochalski	Piotr	Gliwice
+DRF119555	Badohal	Karol	Kielce
+EGF366721	Zietara	Agnieszka	Poznan
+WKM558307	Pawlik	Arkadiusz	Ruda Slaska
+AWC857314	Bialic	Pawel	Pyrzyce
+DZE415897	Gadek	Przemyslaw	Krakow
+OFW124955	Florek	Rafal	Krakow
+DRX138985	Dudek	Marek	Lublin
+LMK150795	Lelek	Tomasz	Katowice
+CBS533238	Kuchan	Kuba	Lodz
+NCC661466	Langman	Maciej	Milicz
+WOA600490	Nowak	Piotr	Cieszyn
+ONC804767	Choloniewski	Jan	Szczecin
+DNH167930	Padol	Anna	Tarnowskie Gory
+SCM827327	Peszkowski	Michal	Mokre
+EMT811823	Niechaj	Tomasz	Opole
+ZWB583579	Niznik	Pawel	Lublin
+GTB460294	Leganowski	Artur	Lublin
+ARS765497	Kraj	Barbara	Ruda Slaska
+DRW790804	Kadziola	Teresa	Krakow
+JGM504910	Zajac	Magdalena	Zabrze
+WUC331756	Pawlica	Paulina	Ustron
+OAB835702	Wrobel	Zofia	Jaworzno
+RCK722634	Stroinski	Maciej	Wisla
+ETZ924648	Miernik	Katarzyna	Opole
+YCF207355	Stypula	Jacek	Krakow
+KRC827335	Szklarczyk	Barbara	Kalisz
+PBW324199	Zapala	Sebastian	Wadowice
+RLU769145	Firek	Jolanta	Leszno
+ADT228900	Czarnecki	Andrzej	Cieszyn
+NNB253694	Kania	Anna	Nowy Targ
+NAW526772	Benkowska	Joanna	Wroclaw
+LGF626328	Malik	Magdalena	Torun
+URM202641	Bauer	Marek	Czestochowa
+DAE905064	Zwolinska	Joanna	Zakopane
+ZLM300860	Kozik	Malgorzata	Augustow
+MBD776767	Homa	Robert	Gliwice
+AGU366016	Planeta	Magdalenalena	Opole
+OWA866865	Tworek	Pawel	Piekary Slaskie
+ZCD602175	Oczak	Michal	Siemianowice
+UCH917309	Kluta	Jacek	Ogrodzieniec
+RLD637163	Targosz	Bolko	Opole
+JOC683059	Kujdowicz	Piotr	Szczecin
+CAW778777	Socha	Joanna	Rybnik
+ART903424	Krawiec	Marcin	Siemianowice
+AKR293566	Szanca	Lukasz	Rybnik
+GOR329905	Pogonski	Piotr	Krakow
+HAU986238	Pohorecki	Adam	Opole
+DWG351339	Ludwin	Pawel	Rybnik
+EMP367143	Pietak	Kamil	Mokre
+ZRD201664	Krzystanek	Karolina	Bytom
+LZF182009	Zolna	Krzysztof	Bedzin
+ACB892867	Piatkowski	Michal	Myslowice
+LCM712208	Meller	Grzegorz	Opole
+NEM359942	Sanakierska	Aleksandra	Poznan
+AWD873194	Ciasto	Pawel	Bielsko Biala
+RRT256665	Skrzypek	Jaroslaw	Bedzin
+EMW201788	Oleksy	Tomasz	Krakow
+ISS721407	Klimkiewicz	Kasia	Gliwice
+SOE850213	Wasniowska	Iwona	Kalisz
+ANJ474445	Piaty	Anna	Lubaczow
+WCC794017	Rawski	Maciej	Cieszyn
+EME929646	Piekorz	Kamil	Bytom
+JCS272810	Kujalowski	Michal	Torun
+JRS460017	Rajewska	Weronika	Torun
+JGU918296	Sojka	Dagmara	Chorzow
+KTK945204	Tokarczyk	Mateusz	Szczecin
+EFM850438	Bielinski	Rafal	Kielce
+LLK235742	Zelazko	Filip	Krakow
+CKU965761	Taczuk	Lukasz	Krakow
+ZZG126863	Wozniak	Grzegorz	Zamosc
+ALX931982	Adamczak	Malgorzata	Bielsko Biala
+DOD512683	Godowski	Piotr	Szczecin
+TGC743947	Potepa	Magdalena	Opole
+ITK752384	Cwikowska	Katarzyna	Szczecin
+OIT932704	Bros	Zbigniew	Bedzin
+SKG991730	Lasyk	Lukasz	Wroclaw
+ERH507747	Bieganski	Marcin	Kalisz
+OGG598700	Zion	Boguslawa	Kalisz
+EGP450196	Plewa	Magdalena	Kielce
+SRJ380030	Iksinska	Barbara	Nowy Targ
+ALD140562	Sonarska	Malgorzata	Rybnik
+EGK457390	Olecka	Magdalena	Mokre
+WNK453188	Kowal	Jan	Katowice
+SEM640686	Jasinski	Aleksander	Katowice
+PIB823840	Lopaczewska	Emilia	Gniezno
+KAT874826	Jakobik	Joanna	Pyrzyce
+GNM678315	Figielska	Agnieszka	Kielce
+RCM902132	Boryka	Michal	Leszno
+GMU219892	Rogozowski	Dominik	Mragowo
+EKS173833	Niemiec	Wiktor	Katowice
+SMK448208	Kos	Tomasz	Lublin
+UMH349005	Morawiec	Dominika	Tczew
+AEP439734	Czarnik	Ewelina	Opole
+ZKK376476	Pyzikowski	Jakub	Lublin
+DAS757969	Boducka	Agata	Kalisz
+LKA793908	Chlebdanowski	Lukasz	Bytom
+DKU640593	Duda	Lukasz	Wisla
+YNM703390	Hejdysz	Agnieszka	Siedlce
+ZAM370165	Trzopek	Joanna	Gliwice
+IZS508691	Kwiecien	Krzysztof	Siedlce
+AWG102489	Ptak	Pawel	Torun
+LCK883310	Polichta	Marcin	Wisla
+NWT455912	Januszewski	Pawel	Kutno
+RRE496315	Turlej	Marek	Kalisz
+OMH575366	Grobelny	Tomasz	Dabrawa Gornicza
+ERG247179	Stelmach	Dorota	Bielsko Biala
+ATE457269	Stachura	Natalia	Katowice
+RAC222073	Borowicz	Mikolaj	Milicz
+CNM635332	Paciorek	Tatiana	Jelenia Gora
+RBG104837	Warywoda	Sebastian	Chorzow
+ORG855713	Znojek	Bartlomiej	Katowice
+NRX509087	Konieczna	Marta	Pyrzyce
+JEH377028	Wojciechowska	Aleksandra	Gniezno
+SOM831460	Mis	Piotr	Bialystok
+OBR535752	Smok	Sebastian	Bielsko Biala
+JNC170163	Wojtowicz	Agnieszka	Kalisz
+MBD788759	Ujma	Sebastian	Pilica
+DES604776	Hodor	Aleksandra	Ogrodzieniec
+RRB633560	Kurdziel	Marcin	Kletno
+JTE467625	Gajdzik	Mateusz	Wojcieszow
+ERB839857	Pietrzykowski	Marcin	Wieliczka
+UCW965716	Gruca	Michal	Chorzow
+YDX698016	Czyrnek	Radoslaw	Katowice
+JTJ540833	Wojciechowsk	Katarzyna	Leszno
+ERM639718	Pienkowski	Marcin	Bialystok
+OTH903193	Grochalska	Natalia	Turek
+SRP817311	Ptakowski	Marek	Katowice
+LKK542319	Golec	Lukasz	Opole
+BLP133931	Urban	Arleta	Kielce
+NKT810712	Konik	Lukasz	Bialystok
+LAM442934	Malek	Aleksandra	Krakow
+CCW466888	Zacharias	Michal	Kutno
+LCH632813	Palka	Michal	Nowy Targ
+JAF111211	Gajos	Adam	Radom
+SGT217959	Pustak	Izabella	Kolo
+RLM713217	Marek	Malgorzata	Piekary Slaskie
+WNR299306	Nowicki	Jan	Wadowice
+OTK325652	Slomka	Mateusz	Ruda Slaska
+OPD420628	Piotr	Popiela	Lowicz
+PNW585680	Koperska	Monika	Jastrzebie
+MOW573734	Tumidajski	Piotr	Kutno
+EKS474398	Zielinski	Jakub	Wieliczka
+WNC451331	Seweryn	Anna	Opole
+LAU904509	Orlowska	Joanna	Siemianowice
+CNB608234	Rachwalik	Jan	Chorzow
+RAT383412	Turaj	Joanna	Rybnik
+CNE544676	Gaczorek	Anna	Srebrna Gora
+NJA585128	Banas	Maja	Dabrawa Gornicza
+STM421808	Buszek	Artur	Myslowice
+SZH897459	Tusinski	Krzysztof	Bytom
+YKE138172	Szydlak	Jakub	Jaworzno
+NAS925185	Nanowska	Ida	Lubaczow
+PAM479742	Kapusta	Joanna	Opole
+BRH573142	Cabaj	Barbara	Krynica
+AAJ461282	Obal	Beata	Torun
+BRJ312324	Debski	Marcin	Poznan
+IGZ553587	Swierkowska	Dagmara	Ogrodzieniec
+STP195612	Olszewska	Katarzyna	Rybnik
+DAA377706	Rudnicki	Adam	Katowice
+NRU104496	Daniel	Cyran	Ustron
+LKJ964155	Kolodziej	Wiktor	Jaworzno
+HCS812099	Ichniowski	Michal	Krakow
+ANK629527	Prazuch	Jan	Krakow
+ATS639829	Stankowska	Katarzyna	Katowice
+GJG348490	Migdalowski	Wojciech	Zabrze
+DZB598447	Andruchowicz	Elzbieta	Siedlce
+HRH759928	Schmidt	Bartek	Teczyn
+LNE835078	Poludniak	Agnieszka	Szczecin
+EAA964810	Pietras	Stanislaw	Dabrawa Gornicza
+ECW163676	Niewiadomski	Jacek	Ustron
+UJC323388	Siudut	Kajetan	Bielsko Biala
+LGS507566	Celinska	Dagmara	Kolo
+MRE842090	Ramijan	Barbara	Zawiercie
+RZR206511	Dyrek	Elzbieta	Poznan
+COR595349	Kucharski	Piotr	Rybnik
+SNJ584121	Suszkiewicz	Agnieszka	Ruda Slaska
+SZD605522	Kusch	Krzysztof	Wroclaw
+OBH109787	Wlodarz	Kuba	Turek
+KME225869	Mika	Roman	Zakopane
+PJM123366	Zapart	Wojtek	Turek
+LRA211005	Telejko	Bartosz	Bedzin
+SCC775412	Pasieka	Maciej	Siemianowice
+CIF651243	Bachleda	Alicja	Kalisz
+ECA721922	Czekajski	Maciej	Katowice
+ATP151613	Starachowicz	Katarzyna	Leszno
+CNM331379	Zachorowski	Jan	Siemianowice
+EGM129288	Czerska	Magdalena	Bielsko Biala
+LZG628588	Feledyk	Grzegorz	Kutno
+SLW685781	Matacz	Wanda	Ustron
+JOE247555	Hajtowicz	Iwona	Opole
+CRG324398	Szczerba	Karolina	Bielsko Biala
+DCH881398	Madrzyk	Szczepan	Bedzin
+AGW642693	Slawinska	Magdalenalena	Mragowo
+MDU264944	Zimirski	Tadeusz	Bielsko Biala
+RLK852394	Wur	Arletta	Gniezno
+OLC963796	Chojnacka	Julia	Gniezno
+ZRU357724	Wrzesniak	Marek	Torun
+SSR774697	Moskala	Leszek	Wadowice
+NRR382478	Kania	Karol	Siemianowice
+ACD504348	Staromiejski	Michal	Zabrze
+AOA474975	Grabczak	Iwona	Gniezno
+BKA599585	Pobereznik	Lukasz	Piekary Slaskie
+BRU920481	Dabrowka	Marcin	Kalisz
+IOH857386	Wcislowska	Iwona	Gniezno
+MCM424134	Osma	Michal	Bytom
+INR513643	Cwierz	Anna	Jelenia Gora
+CAC290569	Pacula	Beata	Poznan
+WYW987928	Wawer	Krystian	Ogrodzieniec
+LRM698244	Walczak	Bartlomiej	Katowice
+WTB539123	Piwowarczyk	Katarzyna	Krakow
+EAP109389	Brezdenska	Agata	Chorzow
+LRS264199	Falkowska	Maria	Leszno
+LAG858817	Galas	Izabela	Zakopane
+COP438280	Michta	Iwona	Chorzow
+MAM505460	Szmulewski	Adam	Jelenia Gora
+SRX450938	Miskowiec	Maria	Katowice
+KWC365202	Tokarski	Pawel	Bedzin
+UZW764717	Frukacz	Krzysztof	Jaworzno
+ENM223774	Alewska	Anna	Katowice
+EYD964380	Ziemirski	Szymon	Katowice
+TWJ280267	Literacka	Erwina	Torun
+CIE745697	Micek	Ania	Radom
+PWF970350	Kapuscinski	Pawel	Katowice
+OAK669674	Stochel	Joanna	Ruda Slaska
+YNS984314	Brylka	Sonia	Myslowice
+DNG591964	Modelowska	Agnieszka	Bialystok
+RRJ398527	Bernacki	Mariusz	Wroclaw
+CTS964590	Michaliszyn	Katarzyna	Krakow
+SRS972884	Kasprzykowski	Marcin	Katowice
+ARC412835	Czaja	Dariusz	Rybnik
+DRT331538	Izdebska	Daria	Zawiercie
+IAW575706	Dzienska	Aga	Zabrze
+RIG854360	Borek	Joanna	Bielsko Biala
+MER148837	Simniewicz	Adela	Wroclaw
+MRJ555488	Zimny	Dorota	Gliwice
+NZH105913	Janeczek	Zuzia	Dabrawa Gornicza
+DTK214225	Budecka	Patrycja	Piekary Slaskie
+CTT337581	Michalek	Mateusz	Ogrodzieniec
+WCM418622	Zywiol	Maciej	Kielce
+LRE534233	Kalamar	Marta	Piekary Slaskie
+NBK531237	Ernst	Sebastian	Bytom
+NWF764495	Winogrodzki	Pawel	Pyrzyce
+OCA656442	Klos	Michal	Srebrna Gora

@@ -1,0 +1,18 @@
+1)
+liczba dwucyklicznych:
+18
+najdluzszy napis:
+00100101100011100010010110001110
+dlugosc:
+32
+
+
+2)
+liczbaniepoprawnych:
+359
+min dlugosc:
+4
+
+3)
+54885
+1101011001100101

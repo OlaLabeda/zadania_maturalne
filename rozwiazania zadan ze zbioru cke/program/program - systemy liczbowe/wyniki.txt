@@ -1,0 +1,13 @@
+1) minimalna temperatura w poszczegolnych stacjach: 
+Stacja 1: -1011
+Stacja 2: -1001100
+Stacja 3: -1001011
+
+2)
+182
+
+3)
+42
+
+3)
+25

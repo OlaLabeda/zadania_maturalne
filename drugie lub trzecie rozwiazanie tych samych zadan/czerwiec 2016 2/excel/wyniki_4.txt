@@ -1,0 +1,37 @@
+1)	
+miesiac	liczba osob urodzonych w danym miesiacu
+styczeń	26
+luty		22
+marzec	30
+kwiecień	27
+maj		25
+czerwiec	31
+lipiec	33
+sierpień	19
+wrzesień	29
+październik	32
+listopad	28
+grudzień	29
+
+2)	
+miejsce zamieszkania	liczba kobiet
+duze miasto	97
+male miasto	20
+srednie miasto	59
+wies	24
+
+
+3)	
+kobiety	8961,50
+mezczyzni	6261,00
+
+
+4)	
+przedzial	wiek
+20 -29	62
+30 - 39	56
+40 - 49	64
+50 - 59	56
+60 - 69	71
+70 - 79	22
+

@@ -1,0 +1,9 @@
+1)
+422
+
+2)
+podzielne przez 2: 500
+podzielne przez 8: 123
+
+3)
+mini: 859 maksi: 925

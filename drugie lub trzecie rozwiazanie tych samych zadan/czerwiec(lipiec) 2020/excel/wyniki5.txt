@@ -1,0 +1,41 @@
+1)	
+program	liczba klientow
+1	11
+2	9
+3	9
+4	7
+5	6
+6	10
+7	11
+8	6
+9	12
+10	8
+11	16
+12	14
+13	7
+14	12
+15	6
+
+2)	
+dokladnie 1	78
+dokladnie 2	21
+	
+	
+3)	
+a)	114
+b)	19:54:00
+
+4)
+godzina pracy	liczba aut
+1	9
+2	8
+3	7
+4	9
+5	5
+6	10
+	
+	
+5)	
+drugi który zrezygnowal	KP566
+ile lacznie zrezygnowalo	44
+ile max jedna po drugiej	3

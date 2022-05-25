@@ -1,0 +1,25 @@
+1)
+a)
+Rodzaj_meczu	liczba meczy
+L	113
+P	25
+T	6
+
+b)
+rok	liczba meczy
+2007	21
+
+2)
+Nazwa
+Zwinne Mewy
+Nocne Pumy
+
+3)
+wynik	liczba meczy
+przegrana	452
+remis	170
+wygrana	579
+
+4)
+liczba pucharowych
+22

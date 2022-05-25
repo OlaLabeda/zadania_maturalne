@@ -1,0 +1,12 @@
+1)
+zajace	wilki
+118,06	43,46
+
+2)
+najmniejsze n dla zajecy: 53
+najmniejsze m dla wilkow: 98
+
+4)
+	zajace	wilki
+min	80,71		28,05
+maks	123,32	54,15

@@ -1,0 +1,29 @@
+1)
+imie	nazwisko
+KRZYSZTOF	LEWANDOWSKI
+tytul
+TEORIA GRAFOW
+JEZYKI PROGRAMOWANIA II
+METODY NUMERYCZNE II
+FLASH I PHP
+
+2)
+srednia
+4,7101
+
+3)
+plec	liczba studentow danej plci
+kobieta	138
+mezczyzna	192
+
+4)
+imie	nazwisko
+JACEK	DYLAG
+PIOTR	NAJDA
+STEFAN	PIETRASZEWSKI
+MACIEJ	SIECZKOWSKI
+JULIA	ZALESKA
+
+5)
+liczba wypozyczen
+316

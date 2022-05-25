@@ -1,0 +1,2 @@
+najwieksza: 8066218209 347931225
+najmniejsza: 100002 16

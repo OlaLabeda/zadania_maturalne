@@ -1,0 +1,46 @@
+1)
+Imie		Nazwisko	rok	liczba badan
+Waclawa	Grabowska	1958	17
+
+2)
+NFZ				koszt
+Dolnoslaski			14414
+Slaski			8540
+Opolski			8490
+Lubuski			7552
+Pomorski			7351
+Wielkopolski		7080
+Swietokrzyski		5532
+Mazowiecki			5345
+Kujawsko-Pomorski		5317
+Zachodniopomorski		5271
+Lubelski			5097
+Lodzki			4829
+Podlaski			3700
+Podkarpacki			3406
+Małopolski			2399
+Warminsko-Mazurski	358
+
+3)
+a)
+Nazwa_badania	ile razy
+RTG przedramienia	352
+
+b)
+Nazwa_badania	liczba osob
+RTG przedramienia	337
+
+4)
+Plec	liczba osob
+k	339
+m	477
+
+5)
+dziesieciolecie	liczba osob
+4			2
+5			4
+6			19
+7			95
+8			192
+9			289
+10			215

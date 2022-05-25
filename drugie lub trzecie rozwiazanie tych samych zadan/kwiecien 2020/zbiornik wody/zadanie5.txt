@@ -1,0 +1,18 @@
+1)	
+temp <= 15	88
+temp > 15 i opady <=0,6	73
+temp >15 i opady > 0,6	22
+	
+2)	
+06.05.2015	13172
+
+3)
+wykres w pliku
+
+4)	
+kwi	0
+maj	164,36
+cze	1056,6
+lip	2559,32
+sie	3651,14
+wrz	1326,62

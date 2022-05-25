@@ -1,0 +1,49 @@
+1)
+liczba miast
+913
+
+2)
+typ_miejscowosci	brodnicki
+kolonia	10
+miasto	3
+osada	47
+osada lesna	12
+przysiolek	1
+wies	148
+
+3)
+nazwa_powiatu	nazwa_wojewodztwa
+bielski	podlaskie
+bielski	slaskie
+brzeski	malopolskie
+brzeski	opolskie
+grodziski	mazowieckie
+grodziski	wielkopolskie
+krosnienski	lubuskie
+krosnienski	podkarpackie
+nowodworski	mazowieckie
+nowodworski	pomorskie
+opolski	lubelskie
+opolski	opolskie
+ostrowski	mazowieckie
+ostrowski	wielkopolskie
+sredzki	dolnoslaskie
+sredzki	wielkopolskie
+swidnicki	dolnoslaskie
+swidnicki	lubelskie
+tomaszowski	lodzkie
+tomaszowski	lubelskie
+
+4)
+liczba gmin
+92
+
+5)
+wojewodztwo	nazwa_wojewodztwa	nazwa_powiatu	nazwa_gminy
+dolnoslaskie	dolnoslaskie	jaworski	Jawor
+dolnoslaskie	dolnoslaskie	Jelenia Gora	Jelenia Gora
+dolnoslaskie	dolnoslaskie	walbrzyski	Jedlina-Zdroj
+mazowieckie	mazowieckie	otwocki	Jozefow
+pomorskie	pomorskie	pucki	Jastarnia
+slaskie	slaskie	Jastrzebie-Zdroj	Jastrzebie-Zdroj
+slaskie	slaskie	Jaworzno	Jaworzno

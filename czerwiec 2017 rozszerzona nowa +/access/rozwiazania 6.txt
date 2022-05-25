@@ -1,0 +1,44 @@
+1)
+Id_programu	program				liczba programow	cena
+11		Word				4			120
+15		Publisher			3			170
+20		Writer				3			0
+61		Foxit Redactor for Office	2			1621
+
+2)
+nazwa_pakietu
+Calligra Suite
+DocuPDF
+gDOC
+GFI Security
+IBM Data Software
+OKAY
+Sales Partner
+SolarWinds Free System Management Tools
+SolarWinds Systems Management
+Subiekt
+
+3)
+nazwa_pakietu			firma		suma cen
+SolarWinds Systems Management	SolarWinds	57520
+MicroStation			Bentley		35736
+GFI Security			GFI Software	14811
+
+4)
+Adobe PageMaker
+Audition
+Lightroom
+QuarkXPress
+Scribus
+
+5)
+nazwa_pakietu			komercyjne	darmowe
+ApexSQL Developer		7		2
+DaemonTools Lite		8		1
+dbForge				5		1
+Expression Studio		3		1
+Foxit PDF Development Kits	2		1
+IconCool Software		4		1
+Logo-Gry			8		2
+MicroStation			4		1
+Sothink Suite			6		1

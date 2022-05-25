@@ -1,0 +1,21 @@
+1)	towar	liczba zaladunkow	suma mas		
+	T4	32	905		
+					
+2)					
+22					
+
+3)
+		
+01.02.2016	MINIMUM	MAKSIMUM
+		T4	T2
+		24	48
+01.08.2018	MINIMUM	MAKSIMUM
+		T1	T5
+		3	125
+4)
+wykres w arkuszu
+
+5)	
+STAN KONTA NA KONIEC	545844
+max stan konta podczas podrozy	
+08.10.2018	550079

@@ -1,0 +1,57 @@
+a)
+imie	nazwisko	liczba noclegow
+Michal	Peszkowski	6
+
+b)
+imie	nazwisko
+Andrzej	Goerlich
+Anna	Chechelska
+Filip	Zelazko
+Grzegorz	Merynda
+Jacek	Stypula
+Jan	Nadachowski
+Konrad	Czajczyk
+Lukasz	Taczuk
+Marcin	Molikiewicz
+Michal	Ichniowski
+Olga	Osinska
+Rafal	Florek
+Tomasz	Oleksy
+
+c)
+miejscowosc
+Bytom		
+Gliwice	
+Kalisz	
+Katowice	
+Kielce	
+Krakow	
+Lublin	
+Opole	
+Szczecin	
+Wroclaw	
+
+d)
+pieniadze:
+za noclegi
+328820
+za uslugi
+55560
+
+e)
+nr_pokoju
+218
+220
+301
+303
+317
+319
+501
+502
+503
+504
+505
+506
+507
+508
+509

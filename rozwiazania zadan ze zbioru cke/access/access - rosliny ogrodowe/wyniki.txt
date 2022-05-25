@@ -1,0 +1,46 @@
+1)
+liczba faktur
+540
+maks faktura
+1250
+liczba klientow
+33
+
+2)
+Miasto	liczba pozycji
+Bielawa		5
+Jelenia Gora	5
+Olawa			1
+Olesnica		1
+Sobotka		8
+Trzebnica		4
+Walbrzych		5
+Wolow			13
+Wroclaw		33
+Zlotoryja		3
+
+3)
+Imie		Nazwisko	Nazwa							Liczba_sadzonek
+Nina		Gryczka	Symphytum grandiflorum  Goldsmith		12
+Oliwia	Gorska	Symphytum grandiflorum  Goldsmith		14
+Oliwia	Gondek	Symphytum grandiflorum  Goldsmith		12
+Dawid		Szubarczyk	Symphytum grandiflorum  Goldsmith		11
+Lena		Mezynska	Symphytum x uplandicum Axmister s Gold	14
+Tymon		Boleski	Symphytum x uplandicum Axmister s Gold	12
+Nadia		Jezierska	Symphytum x uplandicum Axmister s Gold	12
+Szymon	Bzówka	Symphytum x uplandicum Axmister s Gold	13
+
+4)
+Nazwa
+Primula japonica
+Carex Comans
+Echinacea Tomato Soup
+Echinacea Black Beauty
+
+5)
+Rozmiary_doniczki	liczba pozycji
+10x10x20		85
+11x11x11		355
+13x13x13		96
+9x9x12		429
+9x9x9			1051

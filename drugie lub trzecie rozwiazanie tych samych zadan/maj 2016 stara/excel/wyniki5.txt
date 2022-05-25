@@ -1,0 +1,9 @@
+1)			
+ilosc roztworu	4600,00	ilosc wody	2682,72
+			
+2)			
+14500,00	<= obejtosc dolanej wody		
+3,77%	stezenie procentowe		
+
+4)
+28,07

@@ -1,0 +1,27 @@
+1)
+Nazwisko	Imie	Nr_rej	liczba dob	cena
+Aabacka	Nela	WI1150	2	160
+
+Nazwisko	Imie	Nr_rej	liczba dob	cena
+Zgbacka	Aaricia	WI1126	11	880
+
+2)
+klasa	liczba wypozyczen
+B	100
+C	48
+D	53
+
+3)
+Imie	Nazwisko	liczba wypozyczen
+Ramzes	Hcbacki	5
+
+4)
+klasa	Aniolkowo	Manipulatowo	Nieszczerzyn	Piarowa	Wielka Wola
+B	12	31	17	16	25
+C	8	14	9	18	11
+D	7	11	4	8	7
+
+5)
+licZba klientow
+72
+

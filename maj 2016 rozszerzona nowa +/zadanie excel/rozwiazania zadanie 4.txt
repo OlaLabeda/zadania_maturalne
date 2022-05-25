@@ -1,0 +1,17 @@
+1)
+liczba puntkow wewnatrz kola: 7852
+liczba punktow na rzgu kola: 2
+X	Y
+256	8
+200	400
+
+2)
+a) 3,2280
+b) 3,1656
+c) 3,1416
+
+3)
+dla 1000 0,0864
+dla 17000 0,0184
+
+

@@ -1,0 +1,27 @@
+1)
+Nr_klienta	Nazwisko	Imie	Nr_rej	roznica dni	naleznosc
+123261	Aabacka	Nela	WI1150	2	160
+Nr_klienta	Nazwisko	Imie	Nr_rej	roznica dni	naleznosc
+123102	Zgbacka	Aaricia	WI1126	11	880
+
+2)
+klasa	liczba wypozyczen klasy
+B	100
+C	48
+D	53
+
+3)
+Nr_klienta	Imie	Nazwisko	liczba wypozyczen
+123277	Ramzes	Hcbacki	5
+
+4)
+Miejscowosc	B	C	D
+Aniolkowo	12	8	7
+Manipulatowo	31	14	11
+Nieszczerzyn	17	9	4
+Piarowa	16	18	8
+Wielka Wola	25	11	7
+
+5)
+liczba klientow
+72

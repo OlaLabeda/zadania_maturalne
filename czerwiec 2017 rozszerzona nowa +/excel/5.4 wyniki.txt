@@ -1,0 +1,38 @@
+1)
+a)
+43610
+uplyw czasu	przebieg
+40050		5340
+b)
+Marka_i_model	Cena_zakupu	Nr_rejestracyjny	wartosc
+DAF LF45	37000		ERA 132 TR		17390
+
+2)
+marka		liczba aut danej marki	sredni przebieg dla danej marki
+DAF 		30				273239
+Iveco 		12				657434
+MAN 		8				289637
+Mercedes 	17				486545
+Renault 	17				519936
+Scania 		17				557117
+Volvo 		23				307130
+
+3)
+		2006	2007	2008	2009	2010	2011	2012	2013	2014	2015
+DAF 		0	0	0	2	4	2	8	11	3	0
+Iveco 		5	0	0	2	2	0	3	0	0	0
+MAN 		0	1	0	4	2	0	3	3	5	0
+Mercedes 	0	1	0	4	4	4	1	0	1	2
+Renault 	0	0	0	2	6	6	3	0	0	0
+Scania 		0	0	0	4	0	6	5	2	0	0
+Volvo 		0	0	4	8	2	0	4	0	0	5
+
+4)
+Marka_i_model		Nr_rejestracyjny	liczba dni od remontu
+Mercedes Atego		ERA 112 TR		722
+Iveco Strails		ERA 212 TR		708
+Iveco Strails		ERA 213 TR		708
+Iveco TrakkerEuro5	ERA 214 TR		708
+
+
+

@@ -1,0 +1,41 @@
+1)
+liczba panstw
+54
+laczna liczba medali
+1218
+
+2)
+kontynent		liczba letnich	liczba zimowych
+Afryka		297			30
+Ameryka Pld.	218			52
+Ameryka Pln.	236			88
+Australia i Oc.	55			34
+Azja			422			177
+Europa		682			571
+
+
+3)
+Burundi
+Kamerun
+Zjednoczone Emiraty Arabskie
+
+4)
+Afryka		Kenia			86
+Ameryka Pld.	Brazylia		108
+Ameryka Pln.	StanyZjednoczone	2681
+Australia i Oc.	Australia		480
+Azja			Chiny			526
+Europa		ZSRR			1204
+
+5)
+LETNIE	zimowe
+81		3
+
+		
+		
+		
+		
+		
+		
+		
+		

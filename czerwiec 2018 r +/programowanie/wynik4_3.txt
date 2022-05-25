@@ -1,0 +1,4 @@
+wiersze: 
+999
+liczba par: 
+1

@@ -1,0 +1,28 @@
+1)
+Rok	GrandPrix
+2010	Australia
+
+2)
+GrandPrix	
+Indie	
+
+3)
+Imie	Nazwisko	sezon	SumaOfPunkty
+Michael	Schumacher	2000	108
+Imie	Nazwisko	sezon	SumaOfPunkty
+Fernando	Alonso	2006	134
+Imie	Nazwisko	sezon	SumaOfPunkty
+Sebastian	Vettel	2012	281
+
+4)
+Kraj	liczba kierowcow
+Australia	2
+Brazylia	2
+Finlandia	1
+Francja	2
+Hiszpania	1
+Japonia	1
+Meksyk	1
+Niemcy	4
+Wenezuela	1
+Wielka Brytania	3

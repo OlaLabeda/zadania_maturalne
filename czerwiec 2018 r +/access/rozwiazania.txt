@@ -1,0 +1,37 @@
+1)
+Nazwisko	Imie		Nr_rej		liczba dob	koszt
+Aabacka		Nela		WI1150		2		160
+
+Zgbacka		Aaricia		WI1126		11		880
+
+2)
+Klasa	Liczba aut
+B	100
+C	48
+D	53
+
+3)
+liczba wypozyczen	Imie	Nazwisko
+5			Ramzes	Hcbacki
+
+4)
+Miejscowosc	klasa	liczba aut
+Aniolkowo	B	12
+Aniolkowo	C	8
+Aniolkowo	D	7
+Manipulatowo	B	31
+Manipulatowo	C	14
+Manipulatowo	D	11
+Nieszczerzyn	B	17
+Nieszczerzyn	C	9
+Nieszczerzyn	D	4
+Piarowa		B	16
+Piarowa		C	18
+Piarowa		D	8
+Wielka Wola	B	25
+Wielka Wola	C	11
+Wielka Wola	D	7
+
+5)
+liczba klientow
+72

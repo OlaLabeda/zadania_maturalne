@@ -1,0 +1,22 @@
+1) a
+Rodzaj_meczu	Bramki_zdobyte
+T		6
+P		25
+L		113
+
+1) b
+Liczba_meczy	Rok
+21		2007
+
+2)
+Zwinne Mewy
+Nocne Pumy
+
+3)
+wynik		Liczba_meczow
+przegrana	452
+remis		170
+wygrana		579
+
+4)
+22

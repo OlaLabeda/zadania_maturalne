@@ -1,0 +1,59 @@
+6.1)
+T4	905
+
+6.2)
+22
+
+6.3)
+01.02.2016
+MIN: T4 24     MAX: T2 48
+
+01.08.2018
+MIN: T1 3	MAX: T5 125
+
+6.4)
+
+ilosc towaru zaladowanego i wyladowanego ze statku w kolejnych miesiacahc	zaladunekk	Wyladuneek
+2016	
+sty	76	32
+lut	8	0
+mar	0	50
+kwi	68	0
+cze	42	0
+lip	83	0
+sie	0	191
+wrz	44	4
+lis	30	0
+2017	
+sty	39	112
+lut	0	1
+mar	35	0
+kwi	1	0
+maj	33	68
+cze	8	0
+lip	42	0
+sie	4	48
+paź	0	6
+lis	12	1
+2018	
+sty	10	22
+lut	34	0
+mar	0	34
+kwi	5	0
+cze	95	0
+lip	25	0
+sie	
+wrz	0	26
+paź	20	0
+lis	48	64
+gru	0	4
+
+
+6.5)
+a)
+po wykonaniu wszystkich transakcji:545844
+
+max kasa po wyplynieciu z portu: 550079
+
+b)
+MINIMALNA LICZBA talarow jaka kapitan powinien zabrac: 6399

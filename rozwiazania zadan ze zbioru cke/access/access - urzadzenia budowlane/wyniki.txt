@@ -1,0 +1,32 @@
+1)
+liczba wypozyczen	Nazwa_sprzetu
+28	Rusztowanie aluminiowe wys. 5m
+
+2)
+kaucja
+1750
+
+3)
+Imie		Nazwisko
+Marcin	Budzisz
+Wojciech	Dudek
+Izabela	Kusz
+	
+4)
+liczba osob
+68
+
+5)
+miesiac	koszt		kwota za dowoz
+1		43307		850
+2		35441		900
+3		46181		1200
+4		54162		1300
+5		81019		1950
+6		95315		1600
+7		111173	2450
+8		96436		2600
+9		101491	1800
+10		66041		850
+11		47754		700
+12		36435		900
